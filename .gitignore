@@ -1,0 +1,12 @@
+#files 
+.vscode 
+*.lock
+*.pyc
+
+#folders
+bin
+include
+lib
+lib64
+pyvenv.cfg
+
